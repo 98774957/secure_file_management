@@ -1,0 +1,17 @@
+# MS Office temporary files
+~$*.xlsx
+~$*.doc
+~$*.ppt
+*.tmp
+
+# System files
+thumbs.db
+.DS_Store
+
+# Python (if applicable later)
+__pycache__/
+*.py[cod]
+.env
+.venv
+env/
+venv/
